@@ -19,7 +19,11 @@ The crossover between design and programming has always been of interest to me, 
   </a>
 </div>
 Streak :
+<hr>
+<br>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AyushSingh-Tomar&theme=nightowl" alt="GitHub Streak" /></a>
+<hr>
+<br>
 Languages and Tools: 
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
