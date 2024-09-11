@@ -18,7 +18,8 @@ The crossover between design and programming has always been of interest to me, 
     <img src="https://github-profile-trophy.vercel.app/?username=AyushSingh-Tomar&column=7"/>
   </a>
 </div>
-
+Streak :
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AyushSingh-Tomar&theme=nightowl" alt="GitHub Streak" /></a>
 Languages and Tools: 
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -143,7 +144,7 @@ Languages and Tools:
     </a>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=AyushSingh-tomar&theme=react-dark&hide_border=true&area=true)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AyushSingh-Tomar&theme=nightowl" alt="GitHub Streak" /></a>
+<!--<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AyushSingh-Tomar&theme=nightowl" alt="GitHub Streak" /></a>-->
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
