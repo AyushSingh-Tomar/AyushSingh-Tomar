@@ -8,9 +8,14 @@
 I'm
 Full Stack Solution Architect
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python, Golang), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,Cassandra,Mysql), CI/CD(Docker, Kubernetes) 
-
-
+<hr>
+<br>
+Visitor Count :
+<hr>
+<br>
 ![Visitor Count](https://profile-counter.glitch.me/AyushSingh-Tomar/count.svg)
+<br>
+<hr>
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
@@ -18,6 +23,8 @@ The crossover between design and programming has always been of interest to me, 
     <img src="https://github-profile-trophy.vercel.app/?username=AyushSingh-Tomar&column=7"/>
   </a>
 </div>
+<hr>
+<br>
 Streak :
 <hr>
 <br>
@@ -146,16 +153,22 @@ Languages and Tools:
     <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"   />
     </a>
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=AyushSingh-tomar&theme=react-dark&hide_border=true&area=true)
+<hr>
+<br>
+<!--![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=AyushSingh-tomar&theme=react-dark&hide_border=true&area=true)-->
 <!--<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AyushSingh-Tomar&theme=nightowl" alt="GitHub Streak" /></a>-->
+<hr>
+<br>
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <hr>
+<br>
   <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 <br/>
-
+<hr>
+<br>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=AyushSingh-Tomar&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSingh-Tomar&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
