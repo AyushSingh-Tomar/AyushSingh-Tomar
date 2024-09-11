@@ -11,8 +11,7 @@ The crossover between design and programming has always been of interest to me, 
 <hr>
 <br>
 Visitor Count :
-<hr>
-<br>
+
 ![Visitor Count](https://profile-counter.glitch.me/AyushSingh-Tomar/count.svg)
 <br>
 <hr>
@@ -26,13 +25,12 @@ Visitor Count :
 <hr>
 <br>
 Streak :
-<hr>
 <br>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AyushSingh-Tomar&theme=nightowl" alt="GitHub Streak" /></a>
 <hr>
 <br>
 Languages and Tools: 
-
+<br>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="41" />
     </a>
@@ -54,14 +52,14 @@ Languages and Tools:
     <a href="https://d3js.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40" />
     </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+<!--    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40" />
-    </a>
+    </a>-->
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://vecta.io/app/link?src=https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="40" height="40" />
+        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="40" height="40" />
     </a>
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />
@@ -157,18 +155,16 @@ Languages and Tools:
 <br>
 <!--![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=AyushSingh-tomar&theme=react-dark&hide_border=true&area=true)-->
 <!--<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AyushSingh-Tomar&theme=nightowl" alt="GitHub Streak" /></a>-->
-<hr>
-<br>
+
+
+  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
+</summary>
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <hr>
 <br>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
 <br/>
-<hr>
-<br>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=AyushSingh-Tomar&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSingh-Tomar&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
