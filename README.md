@@ -26,7 +26,7 @@ Visitor Count :
 <br>
 Streak :
 <br>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AyushSingh-Tomar&theme=nightowl" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 <hr>
 <br>
 Languages and Tools: 
